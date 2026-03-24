@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Data files (large)
+*.csv
+*.exe
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+ntuser*
+NTUSER*
+
+# AppData and system folders
+AppData/
+Local Settings/
+IntelGraphicsFormats/
+IntelGraphicsProfiles/
+OneDrive/
+VirtualBox VMs/
+.copilot/
+.cursor/
+.config/
+.cache/
+.redhat/
+.copilot/
+.vscode/
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
