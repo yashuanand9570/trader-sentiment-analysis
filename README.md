@@ -122,5 +122,5 @@ This analysis is for educational and informational purposes only. Not financial 
 
 ---
 
-*Analysis period: January 2023 - December 2025*  
+*Analysis period: January 2023 - December 2025*
 *Report generated: March 24, 2026*
